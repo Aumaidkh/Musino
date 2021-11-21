@@ -8,4 +8,7 @@
 <!--    Icons-->
     <attr name="icon_color" format="color"/>
 
+<!--    Bottom Navigation Menu-->'
+    <attr name="bottom_navigation_color" format="color"/>
+
 </resources>
